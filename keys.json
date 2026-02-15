@@ -1,6 +1,6 @@
 {
   "keys": {
-    "trkhoa-KEYVIp wwwabc": { "expire": "2026-03-01", "max_users": 2, "users": [] },
-    "KEYPRO": { "expire": "2026-06-01", "max_users": 3, "users": [] }
+    "trkhoa-KEYVIP": { "days": 30 },
+    "KEYPRO": { "days": 90 }
   }
 }
